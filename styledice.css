@@ -1,0 +1,20 @@
+body{
+    background-color: #393E46;
+}
+.container{
+    text-align: center;
+}
+.dice{
+    text-align: center;
+    display: inline-block;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100px;
+    color: aquamarine;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    color: aquamarine;
+}
